@@ -21,7 +21,7 @@
     "babel-runtime": "^6.20.0",
     "css-loader": "^0.26.1",
     "dotenv": "^6.2.0",
-    "node-sass": "^4.9.3",
+    "node-sass": "^4.13.1",
     "postcss-loader": "^2.0.6",
     "progress-bar-webpack-plugin": "^1.9.0",
     "react": "^16.3.1",
